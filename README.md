@@ -16,5 +16,5 @@ El programa solicita al usuario que ingrese su evaluación de la película "Matr
 
 - Java SDK instalado en tu sistema.
 
-## Contribuir
+
 
